@@ -106,9 +106,15 @@ Formation: Bac +2 DUT ou BTS dans le domaine de l'informatique, des réseaux, de
 
 *16.Technicien télécoms et réseaux*
 
-Son domaine: les liaisons (avec ou sans fil) des équipements téléphoniques et informatiques. 
+Son domaine: les liaisons (avec ou sans fil) des équipements téléphoniques et informatiques. Que la transmission soit opérée par câble, fibre optique, satellite ou voie hertzienne. Trois grandes activités pour ce professionnel: l'installation, la maintenance et le conseil.
 
+Formation: Bac +2 BTS Systèmes numériques option A informatique et réseaux ou option B électronique et communications, DUT réseaux et télécommunications ou le DUT génie électrique et informatique industrielle.
 
+*17. Testeur*
+
+Il est le spécialiste de la chasse aux bugs, ces erreurs qui empêchent le bon fonctionnement d'un logiciel. Il s'assure qu'une application correspond au cahier des charges, qu'elle ne détériore pas le système d'information, qu'elle est utilisable sur tous types de matériels informatiques et dans tous les cas d'utilisation.
+
+Formation: Bac +2 BTS, DUT éventuellement complété par une licence professionnelle en informatique ou Bac +5 master ou diplôme d'ingénieur en informatique
 
 
 

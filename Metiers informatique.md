@@ -116,5 +116,29 @@ Il est le spécialiste de la chasse aux bugs, ces erreurs qui empêchent le bon 
 
 Formation: Bac +2 BTS, DUT éventuellement complété par une licence professionnelle en informatique ou Bac +5 master ou diplôme d'ingénieur en informatique
 
+*18. Consultant BI (Business Intelligence)
 
+Il a pour mission de proposer aux décideurs d'une entreprise un outil d'aide à la décision. Son rôlr consiste à analyser la situation d'une enseigne ainsi que les difficultés auxquelles font face ses décideurs. Plus que cela, il doit comprendre leurs besoins et tacher d'apporter une solution répondant à leur problématique.
+
+Formation: Bac+5 de type Master MIAGE(Méthodes Informatiques Appliquées à la gestion des Entreprises) ou Master spécialisé Business Intelligence. Ou école d'ingénieur informatique.
+
+*19. Scrum Master*
+
+Il fait sortir le meilleur de la part de chaque membre de l'équipe ded développement dans le cadre de projets IT et digitaux en suivant la méthode Scrum. Cette méthode a été inventée par Ken Schwaber et Jeff Sutherland. Ils définissent la méthode comme étant *"un cadre de travail(framework) pour le développement, la livraison et la maintenance de produits complexes"*. 
+Cette méthode s'appuie sur trois piliers
+- la transparence, les éléments importants du projet seront visibles de tous les individus de chaque équipe. Ce pilier implique que le langage utilisé soit compréhensible par tous.
+- L'inspection, une étape destinée à suivre l'avancée du projet par rapport à un objectif du sprint. Un sprint est une période pendant laquelle les personnes en charge du projet doivent concevoir un élément spécifique du livrable avant révision.
+-l'adaptation, représentant un ajustement du livrable si celui-ci a dérivé hors des limites acceptables.
+
+*20. Webmaster*
+
+Il est le gestionnaire du ou des sites internet. Très polyvalent, il conçoit, développe, anime et actualise un site web. Il doit aussi bien posséder des compétences techniques que graphiques ou encore rédactionnelles.
+
+Formation: Bac +2 BTS ou DUT informatique de gestion, Licence professionnelle Activités et Techniques de communication, option Webmaster, Licence Réseaux et Télécommunication, Bac +4/5 Master pro en sciences de la communication, diplôme d'ingénieur en multimédia.
+
+*21. Data Analyst*
+
+Dans une entreprise, il est responsable de toutes les opérations des bases de données. Ce nouveau métier du numérique touche de nombreux secteurs: commerce, finance, banque ou assurance mais aussi médecine, marketing ou informatique statistique. Il crée et modélise les bases de données nécessaires à l'entreprise puis s'assure de leur bon fonctionnement.
+
+Formation: Bac +4 ou bac +5 en ingénierie informatique.
 

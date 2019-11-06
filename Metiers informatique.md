@@ -102,7 +102,11 @@ Formation: Bac+5 pour un diplôme d'ingénieur ou un master (électronique, éne
 
 Il veille au bon fonctionnement des matériels comme des logiciels. Son activité le met au contact du matériel, des utilisateurs et des informaticiens. Dans le service informatique d'une entreprise, il est chargé de la gestion et de la maintenance du matériel et des logiciels.
 
+Formation: Bac +2 DUT ou BTS dans le domaine de l'informatique, des réseaux, des télécoms.
 
+*16.Technicien télécoms et réseaux*
+
+Son domaine: les liaisons (avec ou sans fil) des équipements téléphoniques et informatiques. 
 
 
 

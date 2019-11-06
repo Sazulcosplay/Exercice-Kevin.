@@ -1,4 +1,4 @@
-#Les différents métiers de l'informatique:#
+# Les différents métiers de l'informatique:
 
 *1. Administrateur de base de données:*
 
@@ -59,6 +59,52 @@ Il est chargé d'organiser, d'installer, de remplacer et de transformer l'ensemb
 Qualités: forte réactivité, qualités relationnelles, sens de l'écoute et pédagogie.
 Formation: Bac +5: Master ou diplôme d'ingénieur en informatique, systèmes et réseaux, logiciels et réseaux, ..
 
-*9.
+*9.Hotliner*
+
+Cet expert en pannes informatiques guide à distance les manipulations des utilisateurs en détresse pour résoudre leurs problèmes. 
+
+Qualités: le Hotliner doit être patient, résistant au stress et pédagogue.
+Formation: Bac+2 : BTS ou DUT en informatique
+
+*10.Informaticien Industriel*
+
+L'informatique permet de piloter robots et automates. De la conception des produits à leur livraison, en passant par leur fabrication, les informaticiens industriels se révèlent indispensables.
+
+Formation: Bac +2 pour le BTS Systèmes numériques, Bac +5 pour un diplôme d'ingénieur.
+
+*11.Ingénieur technico-commercial en informatique*
+
+Il s'occuppe des solutions informatique sur mesure pour les entreprises et les administrations. Son rôle est d'accompagner un projet de sa négociation commerciale à sa réalisation technique. 
+
+Formation: Bac+5 diplôme d'école supérieure de commerce, diplôme d'ingénieur avec spécialisation en commerce, vente, informatique, Master MIAGE (méthodes informatiques appliquées à la gestion des entreprises)
+
+*12.Ingénieur en métrologie*
+
+Spécialisé dans les techniques de mesure, proche des services qualité et recherche-développement, l'ingénieur en métrologie crée, avec ses équipes de techniciens, de nouveaux logiciels pour améliorer et optimiser la rentabilité des instruments.
+
+Qualités: sens des responsabilités et esprit d'innovation
+Formation: Bac +5 : diplôme d'ingénieur spécialisé en métrologie, master en sciences de l'ingénieur en mesures,..
+
+*13.Ingénieur système*
+
+Il analyse, fiabilise et optimise l'outil informatique de son entreprise afin que l'ensemble des utilisateurs dispose d'une installation adaptée et performante. C'est un expert du matériel et des logiciels.
+
+Qualités: rigoureux et faire preuve de méthode. Maitriser l'anglais
+Formation: Bac +5 diplôme d'ingénieur ou master mention informatique ou mention réseaux et télécommunication
+
+*14.Ingénieur télécoms et réseaux*
+
+Il participe à l'optimisation des systèmes de communication, de la recherche à la conception d'équipements et de services en passant par la gestion d'infrastructures réseaux.
+
+Formation: Bac+5 pour un diplôme d'ingénieur ou un master (électronique, énergie électrique, automatique, informatique, ingé,ierie des systèmes complexes, réseaux et télécommunication)
+
+*15.Technicien de maintenance en informatique*
+
+Il veille au bon fonctionnement des matériels comme des logiciels. Son activité le met au contact du matériel, des utilisateurs et des informaticiens. Dans le service informatique d'une entreprise, il est chargé de la gestion et de la maintenance du matériel et des logiciels.
+
+
+
+
+
 
 

@@ -4,7 +4,7 @@ en groupe de 4 nous avons du faire des recherche sur le monde du devellopement d
 
 **nous avons du faire des rechercher sur** : les differents metiers qui concerne le devellopement
 
-                                             les different language qui exciste
+                                             les differents languages qui existent
                                              
                                              Les différents IDE, leurs particularités et objectifs 
                                              

@@ -45,6 +45,8 @@ Certaines communautés sont purement virtuelles, d’autres se prolongent dans l
 
 **backmarket:** Depuis 2014, achat de matériel informatique reconditionné et entraide.
 
+**Developpez.net**: Forum d'entraide sur le développement
+
 **Les communautés virtuelles B to B** : Celles-ci peuvent être verticales (intégration par métier), horizontales (intégration par fonction) ou encore interne à l’entreprise (extranet, intranet, communauté d’employés [exemple : mon-macdo.com]).
 **Les communautés virtuelles C to C** : A l’initiative d’une personnalité publique, elles englobent les communautés d’intérêts non lucratives (communauté des passionnés de jeux vidéo, de littérature, de cinéma, de réflexions politiques ou philosophiques, etc.)
 **Les communautés virtuelles B to C** : Ces dernières sont créées par une société désirant de se rapprocher de ses clients et/ou de ses prospects. Cela passe de la communauté de fait (portail des FAI) à la communauté virtuelle marchande.

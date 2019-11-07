@@ -1,6 +1,6 @@
 # Exercice-Kevin.
 
-en groupe de 4 nous avons du fzire des recherche sur le monde du devellopement de l'informatique.
+en groupe de 4 nous avons du faire des recherche sur le monde du devellopement de l'informatique.
 
 **nous avons du faire des rechercher sur** : les differents metiers qui concerne le devellopement
                                              les different language qui exciste

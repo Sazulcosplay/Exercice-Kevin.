@@ -33,25 +33,30 @@ Dérivé du langage BASIC, vous pouvez avoir un aperçu de Visual Basic si vous 
 
 Delphi correspond à la revanche de Borland sur Microsoft après la sortie de son Visual Basic. Basé sur le langage Pascal mais de façon à en faire un vrai langage orienté objet, il permet, (tout comme Visual Basic), de développer assez facilement des applications pour Windows. 
 
-**Les langages du web**
-Il existe 5 language pour le web
-
 **#html**
+
 Le HTML (Hyper-Text Markup Language), c'est tout simplement le langage dans lequel sont écrites les pages web 
 
 **#CSS**
+
 Le CSS (Cascading Style Sheet = Feuille de Style en cascade) est utilisé pour alléger le code HTML. 
 
 **#JavaScript**
+
 Toujours pour le net, le JavaScript est plutôt simple et n'a pas besoin d'être compilé. On insère le code dans la page web et le navigateur l'interprète tout seul comme un grand. 
+
 **#PHP**
+
 Le PHP (PHP : Hyper-text Preprocessor) est un langage exécuté côté serveur et non plus côté client comme le JavaScript. Pour cela, on place sur le serveur distant (équipé de PHP) des pages web avec l'extension .php. Ces pages contiennent en général du code PHP capable de générer une page HTML classique selon les paramètres envoyés par l'utilisateur et/ou contenus dans une base de données annexe. 
 
 **#SQL**
+
 SQL (Structured Query Language) est un langage d'interrogation de base de données très populaire. 
 
 **Le python**
+
 Créé le 20 février 1991, le python est un langage de programmation interprété, multi-paradigme et multiplateformes.il favorise la programmation imperative structurée, fonctionnelle et orientée objet, 
 
 **Le typeScript**
+
 Le TypeScript est un langage de programmation développé par Microsoft en 2012. Son ambition principale est d’améliorer la productivité de développement d’applications complexes. C’est un langage open source, développé comme un sur-ensemble de Javascript. Ce qu’il faut comprendre par là, c’est que tout code valide en Javascript l’est également en TypeScript. 

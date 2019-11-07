@@ -8,19 +8,19 @@ Certaines communautés sont purement virtuelles, d’autres se prolongent dans l
 
 ![pas e co](https://www.ordissinaute.fr/sites/default/files/styles/full_new_main_no_crop/public/field/image/comment-ca-marche-logo.jpeg.jpg?itok=ZSrzi9qq) 
 
-**Comment ça marche:** Depuis 1999, logiciels à télécharger et FAQ.
+**Comment ça marche:** Depuis 1999, logiciels divers ( de façon plus ou moins légale ) à télécharger, et FAQ sur tous sujets surtout informatique.
 
 ![pas de co](https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Clubic_Wikipedia.png) 
 
-**Clubic:** Depuis 2000, logiciels à télécharger et FAQ.
+**Clubic:** Depuis 2000, logiciels divers ( de façon plus ou moins légales ) à télécharger et FAQ.
 
 ![pas de co](https://yt3.ggpht.com/a/AGF-l7-O9jHUNd0PPVQVk5mxfhEe3zBjk-1KyN-0ag=s288-c-k-c0xffffffff-no-rj-mo) 
 
-**Jeuxvidéos.com:** Depuis 1997, FAQ sur tout.
+**Jeuxvidéos.com:** Depuis 1997, FAQ sur tout, initialement basés sur les jeux vidéos.
 
 ![pas de co](https://upload.wikimedia.org/wikipedia/fr/7/76/4chan_logo.png) 
 
-**4chan:** Depuis 2003, FAQ sur tout.
+**4chan:** Depuis 2003, FAQ sur tous sujets.
 
 ![pas de co](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
 
@@ -35,15 +35,15 @@ Certaines communautés sont purement virtuelles, d’autres se prolongent dans l
 **linuxfr.org:** Depuis 1998, site d'entraide propre au système d'exploitation linux.
 
 ![pas de co](https://img.ecommercemag.fr/Img/BREVE/2017/2/314435/sport-LDLC-com-partenaire-coupe-France-League-Legends-F.jpg)
-**LDLC:** Depuis 1996, matériel informatique et entraide.
+**LDLC:** Depuis 1996, matériel informatique, achats en ligne, et entraide.
 
 ![pas de co](https://quelles-dates.fr/wp-content/uploads/2015/11/materiel-net-600x350.jpeg) 
 
-**Matériel.net:** Depuis 2000, matériel informatique et entraide.
+**Matériel.net:** Depuis 2000, matériel informatique achat en ligne et entraide.
 
 ![pas de co](https://i0.wp.com/unam-arts-et-metiers.fr/wp-content/uploads/08725338-photo-logo-back-market.png?ssl=1) 
 
-**backmarket:** Depuis 2014, matériel informatique reconditionné et entraide.
+**backmarket:** Depuis 2014, achat de matériel informatique reconditionné et entraide.
 
 **Les communautés virtuelles B to B** : Celles-ci peuvent être verticales (intégration par métier), horizontales (intégration par fonction) ou encore interne à l’entreprise (extranet, intranet, communauté d’employés [exemple : mon-macdo.com]).
 **Les communautés virtuelles C to C** : A l’initiative d’une personnalité publique, elles englobent les communautés d’intérêts non lucratives (communauté des passionnés de jeux vidéo, de littérature, de cinéma, de réflexions politiques ou philosophiques, etc.)

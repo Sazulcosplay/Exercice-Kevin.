@@ -1,5 +1,11 @@
 **Communautés informatiques.**
 
+**definition**
+
+Une communauté en ligne est un groupe de personnes qui communiquent par l'intermédiaire de courriers électroniques, Internet en particulier via des forums, courrier, téléphone, pour des raisons professionnelles, sociales, éducatives ou autres. Le mot en ligne est employé pour signifier qu’il ne s’agit pas de communication face à face.
+Le terme « communauté virtuelle » est attribué au livre du même nom, publié en 1993 et écrit par Howard Rheingold.
+Certaines communautés sont purement virtuelles, d’autres se prolongent dans la réalité : le Web permet de gérer des plannings, organiser des réunions, passer des informations.
+
 ![pas e co](https://www.ordissinaute.fr/sites/default/files/styles/full_new_main_no_crop/public/field/image/comment-ca-marche-logo.jpeg.jpg?itok=ZSrzi9qq) 
 
 **Comment ça marche:** Depuis 1999, logiciels à télécharger et FAQ.
@@ -10,11 +16,11 @@
 
 ![pas de co](https://yt3.ggpht.com/a/AGF-l7-O9jHUNd0PPVQVk5mxfhEe3zBjk-1KyN-0ag=s288-c-k-c0xffffffff-no-rj-mo) 
 
-**Jeuxvidéos.com:** Depuis 1997, FAQ.
+**Jeuxvidéos.com:** Depuis 1997, FAQ sur tout.
 
 ![pas de co](https://upload.wikimedia.org/wikipedia/fr/7/76/4chan_logo.png) 
 
-**4chan:** Depuis 2003, FAQ.
+**4chan:** Depuis 2003, FAQ sur tout.
 
 ![pas de co](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
 
@@ -38,3 +44,7 @@
 ![pas de co](https://i0.wp.com/unam-arts-et-metiers.fr/wp-content/uploads/08725338-photo-logo-back-market.png?ssl=1) 
 
 **backmarket:** Depuis 2014, matériel informatique reconditionné et entraide.
+
+**Les communautés virtuelles B to B** : Celles-ci peuvent être verticales (intégration par métier), horizontales (intégration par fonction) ou encore interne à l’entreprise (extranet, intranet, communauté d’employés [exemple : mon-macdo.com]).
+**Les communautés virtuelles C to C** : A l’initiative d’une personnalité publique, elles englobent les communautés d’intérêts non lucratives (communauté des passionnés de jeux vidéo, de littérature, de cinéma, de réflexions politiques ou philosophiques, etc.)
+**Les communautés virtuelles B to C** : Ces dernières sont créées par une société désirant de se rapprocher de ses clients et/ou de ses prospects. Cela passe de la communauté de fait (portail des FAI) à la communauté virtuelle marchande.

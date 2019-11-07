@@ -1,6 +1,6 @@
 **Communautés informatiques.**
 
-**Comment ça marche:**
+!(https://www.ordissinaute.fr/sites/default/files/styles/full_new_main_no_crop/public/field/image/comment-ca-marche-logo.jpeg.jpg?itok=ZSrzi9qq) **Comment ça marche:**
 Depuis 1999, logiciels à télécharger et FAQ.
 
 **Clubic:**

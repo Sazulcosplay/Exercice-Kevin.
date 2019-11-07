@@ -1,3 +1,12 @@
+**les différents language informatique**
+
+![pas de co](https://passetech.com/wp-content/uploads/2018/09/1.png)
+
+**definition du langage informatique**
+
+En informatique, un langage de programmation est une notation conventionnelle destinée à formuler des algorithmes et produire des programmes informatiques qui les appliquent. D'une manière similaire à une langue naturelle, un langage de programmation est composé d'un alphabet, d'un vocabulaire, de règles de grammaire et de signification.
+Les langages de programmation permettent de décrire d'une part les structures des données qui seront manipulées par l'appareil informatique, et d'autre part d'indiquer comment sont effectuées les manipulations, selon quels algorithmes. Ils servent de moyens de communication par lesquels le programmeur communique avec l'ordinateur, mais aussi avec d'autres programmeurs ; les programmes étant d'ordinaire écrits, lus, compris et modifiés par une équipe de programmeurs.
+
 **L'Assembleur (ASM)**
 
 Inventé en 1945 par John von Neumann, l'assembleur fut le premier vrai langage de programmation mais aussi le plus proche du langage machine ,l'un des plus compliqués.
@@ -51,11 +60,16 @@ Le PHP (PHP : Hyper-text Preprocessor) est un langage exécuté côté serveur e
 
 **#SQL**
 
-SQL (Structured Query Language) est un langage d'interrogation de base de données très populaire. 
+est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de SQL permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
+
+Outre le langage de manipulation des données, la partie langage de définition des données permet de créer et de modifier l'organisation des données dans la base de données, la partie langage de contrôle de transaction permet de commencer et de terminer des transactions, et la partie langage de contrôle des données permet d'autoriser ou d'interdire l'accès à certaines données à certaines personnes.
+
+Créé en 1974, normalisé depuis 1986, le langage est reconnu par la grande majorité des systèmes de gestion de bases de données relationnelles du marché.
 
 **Le python**
 
-Créé le 20 février 1991, le python est un langage de programmation interprété, multi-paradigme et multiplateformes.il favorise la programmation imperative structurée, fonctionnelle et orientée objet, 
+Créé le 20 février 1991, le python est un langage de programmation interprété, multi-paradigme et multiplateformes.il favorise la programmation imperative structurée, fonctionnelle et orientée objet.
+Python est un langage qui peut s'utiliser dans de nombreux contextes et s'adapter à tout type d'utilisation grâce à des bibliothèques spécialisées. Il est cependant particulièrement utilisé comme langage de script pour automatiser des tâches simples mais fastidieuses, comme un script qui récupérerait la météo sur Internet ou qui s'intégrerait dans un logiciel de conception assistée par ordinateur afin d'automatiser certains enchaînements d'actions répétitives. On l'utilise également comme langage de développement de prototype lorsqu'on a besoin d'une application fonctionnelle avant de l'optimiser avec un langage de plus bas niveau. Il est particulièrement répandu dans le monde scientifique, et possède de nombreuses bibliothèques optimisées destinées au calcul numérique.
 
 **Le typeScript**
 

@@ -32,6 +32,7 @@ Les outils que vous utilisez régulièrement ne doivent pas avoir de secret pour
 
 Cela inclut par exemple la définition et le respect de règles de nommage
 .
+
 **10.Lire les sources des projets :**
 
 Vous pouvez commencer à résoudre des problèmes simplement en vous souvenant d’une solution que vous avez vue ailleurs. Vous pouvez donc profiter de la disponibilité des codes source des projets GNU/Linux pour les télécharger afin de pouvoir y jeter un coup d’œil.

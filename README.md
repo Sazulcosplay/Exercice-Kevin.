@@ -1,8 +1,8 @@
 # Exercice-Kevin.
 
-en groupe de 4 nous avons du faire des recherche sur le monde du développement de l'informatique.
+#**1 :**en groupe de 4 nous avons du faire des recherche sur le monde du développement de l'informatique pour reussir a completer et a apprendre de nouvelles chose sur le codage.
 
-**nous avons du faire des rechercher sur** : les différents métiers qui concerne le développement
+**2 : nous faire des rechercher sur** : les différents métiers qui concerne le développement
 
                                              les différents languages qui existent
                                              
@@ -15,7 +15,10 @@ en groupe de 4 nous avons du faire des recherche sur le monde du développement 
                                              La veille technologique : les avantages, inconvénients etc… 
 
 
-créateurs Clement Libeau
-         Nathan Cassan
-         Jeremie callico
-         Simon Beraud
+Clement Libeau
+
+Nathan Cassan
+
+Jeremie callico
+
+Simon Beraud

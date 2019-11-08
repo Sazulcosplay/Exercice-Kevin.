@@ -47,6 +47,6 @@ Vous pouvez commencer à résoudre des problèmes simplement en vous souvenant d
 
 **15.Veille technologique :**
 
-**16.suivre régulièrement les technologies utilisées et leurs alternatives.**
+**16.Suivre régulièrement les technologies utilisées et leurs alternatives.**
 
 **17.Parcourir toutes les documentations.**

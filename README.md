@@ -1,10 +1,10 @@
 # Exercice-Kevin.
 
-en groupe de 4 nous avons du faire des recherche sur le monde du devellopement de l'informatique.
+en groupe de 4 nous avons du faire des recherche sur le monde du développement de l'informatique.
 
-**nous avons du faire des rechercher sur** : les differents metiers qui concerne le devellopement
+**nous avons du faire des rechercher sur** : les différents métiers qui concerne le développement
 
-                                             les differents languages qui existent
+                                             les différents languages qui existent
                                              
                                              Les différents IDE, leurs particularités et objectifs 
                                              
@@ -15,7 +15,7 @@ en groupe de 4 nous avons du faire des recherche sur le monde du devellopement d
                                              La veille technologique : les avantages, inconvénients etc… 
 
 
-createur Clement Libeau
+créateurs Clement Libeau
          Nathan Cassan
          Jeremie callico
          Simon Beraud
